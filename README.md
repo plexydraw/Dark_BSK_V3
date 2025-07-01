@@ -24,9 +24,6 @@
 
 ## **Enlaces Importantes**
 
-### **Descargar Dark_BSK_v4**  
-[![Descargar](https://via.placeholder.com/200x50.png?text=Descargar)](https://download1586.mediafire.com/44za5d965kfgkmvXIyOgcyq64V-r9ox95Rpnmw8j3SJWJipW-uNB_pdsL_5_6GXSJpG6GVu_R7PnAvT25zWxqSCQkyi-UN22xm57MJ0IalxqCBjnNDutOgYePBPGLQknDs3HP_gaJkFPkSdC2jAUKxbMC7Qt4LUaB7aRn_Qxgxf75w/3dx9em65g0galur/Dark_BSK_v4.rar)  
-
 - Web: [Visita nuestra página web](https://lacoronanetwork.com) para descubrir más proyectos y obtener información adicional sobre nuestro trabajo. 🌐
 - Discord: Únete a nuestra comunidad en Discord para recibir soporte, participar en discusiones y estar al tanto de las últimas actualizaciones. 💬
 
